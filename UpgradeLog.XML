@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UDPChat">
+</Property><Property Name="解决方案文件" Value="C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\UDPChat.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\UDPChat.suo">
+</Property><Property Name="Date" Value="2019年6月10日">
+</Property><Property Name="Time" Value="16:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UDPChat.sln" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UDPChat.suo" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat.suo">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\UDPChat.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\UDPChat.csproj">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Form1.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Form1.cs">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Form1.designer.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Program.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Program.cs">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Form1.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Form1.resx">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPChat\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\UDPChat.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UDPChat" Source="UDPChat\UDPChat.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\UDPServer.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\UDPServer.csproj">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Form1.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Form1.designer.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Program.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Form1.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\UDPChat--C# 写一个UDP聊天程序\codesc.net\UDPChat\Backup\UDPServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\UDPServer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UDPServer" Source="UDPServer\UDPServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UDPChat.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="UDPChat.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UDPChat" Source="UDPChat\UDPChat.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="UDPServer\UDPServer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
